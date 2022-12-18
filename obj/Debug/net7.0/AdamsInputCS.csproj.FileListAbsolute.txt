@@ -1,0 +1,15 @@
+/home/amospelumi/dotnet/AdamsInputCS/bin/Debug/net7.0/AdamsInputCS
+/home/amospelumi/dotnet/AdamsInputCS/bin/Debug/net7.0/AdamsInputCS.deps.json
+/home/amospelumi/dotnet/AdamsInputCS/bin/Debug/net7.0/AdamsInputCS.runtimeconfig.json
+/home/amospelumi/dotnet/AdamsInputCS/bin/Debug/net7.0/AdamsInputCS.dll
+/home/amospelumi/dotnet/AdamsInputCS/bin/Debug/net7.0/AdamsInputCS.pdb
+/home/amospelumi/dotnet/AdamsInputCS/obj/Debug/net7.0/AdamsInputCS.csproj.AssemblyReference.cache
+/home/amospelumi/dotnet/AdamsInputCS/obj/Debug/net7.0/AdamsInputCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/amospelumi/dotnet/AdamsInputCS/obj/Debug/net7.0/AdamsInputCS.AssemblyInfoInputs.cache
+/home/amospelumi/dotnet/AdamsInputCS/obj/Debug/net7.0/AdamsInputCS.AssemblyInfo.cs
+/home/amospelumi/dotnet/AdamsInputCS/obj/Debug/net7.0/AdamsInputCS.csproj.CoreCompileInputs.cache
+/home/amospelumi/dotnet/AdamsInputCS/obj/Debug/net7.0/AdamsInputCS.dll
+/home/amospelumi/dotnet/AdamsInputCS/obj/Debug/net7.0/refint/AdamsInputCS.dll
+/home/amospelumi/dotnet/AdamsInputCS/obj/Debug/net7.0/AdamsInputCS.pdb
+/home/amospelumi/dotnet/AdamsInputCS/obj/Debug/net7.0/AdamsInputCS.genruntimeconfig.cache
+/home/amospelumi/dotnet/AdamsInputCS/obj/Debug/net7.0/ref/AdamsInputCS.dll
