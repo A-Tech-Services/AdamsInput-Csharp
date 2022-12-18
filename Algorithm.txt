@@ -1,0 +1,71 @@
+using System;
+using System.IO;
+
+namespace AdamsInputProgramming
+{
+    public class AdamsInput
+    {
+        // create member variables
+        string file; int testCase; string adamSteps;
+        int lenAdamsStep; int steps; string[] lines;
+
+
+        // checking and reading the external file.    
+        public void ReadFromFile(){
+            file = file name
+            lines = read files
+
+
+            // checking if lines are empty
+            if(lines.Length == 0){
+                print out error in opeing file
+            }         
+        }
+
+        // check steps taken
+        public void CheckStepsTaken(){
+           invoke ReadFromFile file function ReadFromFile();
+
+            // get testCase and converting to integer
+            testCase = firstline of file converted to int;
+
+
+            // looping through number of testcases
+            for(int i=1; i<=testCase; i++){
+
+                adamSteps = next line of the file;
+                lenAdamsStep = adamSteps length
+
+                steps = 0;
+                for(int j=0; j<lenAdamsStep; j++){
+                    if(adamSteps[j] == 'U'){
+                        increment step step++
+                    }else{
+                        break out of loop;
+                    }
+                }
+
+                // conditions for pluralizing my steps.
+                if(steps > 1){
+                    Console.WriteLine("Adam took {0} steps before falling", steps);
+                }else{
+                    Console.WriteLine("Adam took {0} step before falling", steps);
+                }
+                
+            }   
+
+        }
+    }
+
+    // executing Adams input
+    class ExecuteAdamsInput
+    {
+        static void Main(string[] args)
+        {
+            AdamsInput adaminput = new AdamsInput();
+            adaminput.CheckStepsTaken();
+            Console.ReadKey();
+        }
+    }
+
+}
