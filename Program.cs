@@ -1,4 +1,8 @@
-﻿using System;
+﻿// Name: Abiodun Oluwapelumi AMos
+// Matric Number: 230865
+//  Github link: https://github.com/A-Tech-Services/AdamsInput-Csharp.git
+
+using System;
 using System.IO;
 
 namespace AdamsInputProgramming
